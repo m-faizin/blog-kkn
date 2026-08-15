@@ -40,8 +40,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-1",
     photos: [
       { id: 1, src: "/galeri/day1-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA mengikuti Pembukaan di Kecamatan Pedurungan serta Kelurahan Tlogosari Wetan" },
-      { id: 2, src: "/galeri/day1-2.png", caption: "" },
-      { id: 3, src: "/galeri/day1-3.png", caption: "" }
+      { id: 2, src: "/galeri/day1-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan kegiatan mengajar TPQ dan bimbingan belajar." },
+      { id: 3, src: "/galeri/day1-3.png", caption: "Kelompok 105 KKN tematik UNISSULA melakukan silaturahmi ke RT 3 dan RT 10." }
     ]
   },
   {
@@ -50,8 +50,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-2",
     photos: [
       { id: 1, src: "/galeri/day2-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA melaksanakan survei bibit tanaman sebagai persiapan program penghijauan di Kelurahan Tlogosari Wetan" },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day2-2.png", caption: "Saat Kelompok 105 KKN Tematik UNISSULA melakukan kegiatan mengajar di TPQ dan Bimbingan Belajar." },
+      { id: 3, src: "/galeri/day2-3.png", caption: "Kelompok 105 KKN Tematik UNISSULA berkoordinasi bersama Kelompok 9 dan Kelompok 73 dalam membahas penyusunan peta wilayah serta sinkronisasi data hasil observasi lapangan." }
     ]
   },
   {
@@ -60,8 +60,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-3",
     photos: [
       { id: 1, src: "/galeri/day3-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan kunjungan ke RT 10 untuk bersilaturahmi, berkoordinasi dengan Ketua RT, serta mengidentifikasi kondisi lingkungan sebagai dasar penyusunan program kerja." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day3-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan kegiatan mengajar di TPQ dan Bimbingan Belajar." },
+      { id: 3, src: "/galeri/day3-3.png", caption: "" }
     ]
   },
   {
@@ -70,8 +70,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-4",
     photos: [
       { id: 1, src: "/galeri/day4-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan kegiatan PJN (Pemantauan Jentik Nyamuk) bersama Ibu-Ibu RW 01 dan melakukan koordinasi untuk mempersiapkan lomba ibu-ibu." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day4-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA membantu dalam pendistribusian MBG." },
+      { id: 3, src: "/galeri/day4-3.png", caption: "Kelompok 105 KKN Tematik UNISSULA mempersiapkan alat alat untuk lomba  ibu-ibu." }
     ]
   },
   {
@@ -80,8 +80,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-5",
     photos: [
       { id: 1, src: "/galeri/day5-1.png", caption: "SKelompok 105 KKN Tematik UNISSULA melakukan kerja bakti membersihkan green house dan mempersiapkan media tanam untuk menanam tanaman." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day5-2.jpg", caption: "Kelompok 105 KKN Tematik UNISSULA berpartisipasi dalam pelaksanaan lomba ibu-ibu RT 10 dalam rangka memeriahkan peringatan Hari Kemerdekaan Republik Indonesia." },
+      { id: 3, src: "/galeri/day5-3.png", caption: "" }
     ]
   },
   {
@@ -89,9 +89,9 @@ const GALLERY_DAYS = [
     date: "2 Agustus 2026",
     title: "Kegiatan Hari ke-6",
     photos: [
-      { id: 1, src: "/galeri/day6-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA berpartisipasi dalam pelaksanaan lomba anak-anak RT 10." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 1, src: "/galeri/day6-1.jpg", caption: "Kelompok 105 KKN Tematik UNISSULA berpartisipasi dalam pelaksanaan lomba anak-anak RT 10." },
+      { id: 2, src: "/galeri/day6-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA menghadiri kegiatan PKK RW sebagai bentuk silaturahmi dan dukungan terhadap kegiatan pemberdayaan masyarakat." },
+      { id: 3, src: "/galeri/day6-3.png", caption: "Kelompok 105 KKN Tematik UNISSULA turut membantu pelaksanaan lomba ibu-ibu tingkat RW." }
     ]
   },
   {
@@ -100,8 +100,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-7",
     photos: [
       { id: 1, src: "/galeri/day7-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan kunjungan ke Dinas Pertanian untuk berkoordinasi terkait kebutuhan bibit tanaman dalam mendukung program penghijauan." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day7-2.jpg", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan kunjungan dan koordinasi dengan Ketua RT 2 guna mengidentifikasi kondisi lingkungan serta kebutuhan masyarakat." },
+      { id: 3, src: "/galeri/day7-3.png", caption: "Kelompok 105 KKN Tematik UNISSULA melaksanakan kegiatan mengajar di TPQ sebagai bentuk pengabdian kepada masyarakat melalui pendampingan pembelajaran agama." }
     ]
   },
   {
@@ -110,8 +110,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-8",
     photos: [
       { id: 1, src: "/galeri/day8-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA melaksanakan kegiatan penanaman benih di greenhouse." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day8-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan piket dalam membantu administrasi Kelurahan Tlogosari Wetan." },
+      { id: 3, src: "/galeri/day8-3.png", caption: "Kelompok 105 KKN Tematik UNISSULA melaksanakan kegiatan mengajar di TPQ sebagai bentuk pengabdian dan pendampingan pembelajaran." }
     ]
   },
   {
@@ -120,8 +120,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-9",
     photos: [
       { id: 1, src: "/galeri/day9-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA melaksanakan kegiatan kerja bakti di greenhouse." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day9-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan piket dalam membantu administrasi Kelurahan Tlogosari Wetan." },
+      { id: 3, src: "/galeri/day9-3.png", caption: "Kelompok 105 KKN Tematik UNISSULA melaksanakan kegiatan mengajar di TPQ sebagai bentuk pengabdian dan pendampingan pembelajaran." }
     ]
   },
   {
@@ -130,8 +130,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-10",
     photos: [
       { id: 1, src: "/galeri/day10-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA melaksanakan kegiatan mengajar di TPQ sebagai bentuk pengabdian dan pendampingan pembelajaran." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day10-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan piket dalam membantu administrasi Kelurahan Tlogosari Wetan." },
+      { id: 3, src: "/galeri/day10-3.png", caption: "" }
     ]
   },
   {
@@ -140,8 +140,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-11",
     photos: [
       { id: 1, src: "/galeri/day11-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA melaksanakan kegiatan bersih-bersih area TOGA Kelurahan untuk menjaga kebersihan dan kerapian lingkungan." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day11-2.jpg", caption: "Kelompok 105 KKN Tematik UNISSULA berpartisipasi dalam kegiatan lomba TOGA RW 1 sebagai bentuk dukungan terhadap kegiatan pemberdayaan dan pemanfaatan tanaman obat di lingkungan masyarakat." },
+      { id: 3, src: "/galeri/day11-3.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan pencatatan dan inventarisasi seluruh tanaman yang terdapat di TOGA RT 8 sebagai bagian dari pendataan tanaman." }
     ]
   },
   {
@@ -150,8 +150,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-12",
     photos: [
       { id: 1, src: "/galeri/day12-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA membantu pelaksanaan pelayanan Posyandu." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day12-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA membantu pelaksanaan pelayanan Poswindu." },
+      { id: 3, src: "/galeri/day12-3.png", caption: "Kelompok 105 KKN Tematik UNISSULA berpartisipasi dalam kegiatan lomba masak RW 1 sebagai bentuk dukungan dan kebersamaan bersama masyarakat." }
     ]
   },
   {
@@ -160,8 +160,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-13",
     photos: [
       { id: 1, src: "/galeri/day13-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA mengikuti dan berpartisipasi dalam kegiatan perayaan HUT RI RW 1 bersama masyarakat sebagai bentuk kebersamaan dan pengabdian kepada masyarakat." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day13-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA melaksanakan koordinasi dalam pembuatan peta wilayah." },
+      { id: 3, src: "/galeri/day13-3.png", caption: "" }
     ]
   },
   {
@@ -170,8 +170,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-14",
     photos: [
       { id: 1, src: "/galeri/day14-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan pembelian bibit tanaman yang akan dibagikan kepada setiap RT." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day14-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA membagikan bibit tanaman kepada setiap RT." },
+      { id: 3, src: "/galeri/day14-3.png", caption: "Kelompok 105 KKN Tematik UNISSULA melaksanakan hari terakhir pembelajaran TPQ dan les bersama." }
     ]
   },
   {
@@ -180,8 +180,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-15",
     photos: [
       { id: 1, src: "/galeri/day15-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA bersama Kelompok 9 dan Kelompok 73 melaksanakan pembuatan dan penyusunan peta wilayah." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day15-2.png", caption: "" },
+      { id: 3, src: "/galeri/day15-3.png", caption: "" }
     ]
   },
   {
@@ -190,8 +190,8 @@ const GALLERY_DAYS = [
     title: "Kegiatan Hari ke-16",
     photos: [
       { id: 1, src: "/galeri/day16-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA mengikuti kegiatan peresmian peta wilayah oleh Ibu Lurah Tlogosari Wetan." },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 2, src: "/galeri/day16-2.png", caption: "" },
+      { id: 3, src: "/galeri/day16-3.png", caption: "" }
     ]
   },
   {
@@ -199,9 +199,9 @@ const GALLERY_DAYS = [
     date: "13 Agustus 2026",
     title: "Kegiatan Hari ke-17",
     photos: [
-      { id: 1, src: "/galeri/day17-1.png", caption: "Survei Lokasi Posyandu" },
-      { id: 2, src: "", caption: "Foto 2 (Opsional - kosongkan jika tidak ada)" },
-      { id: 3, src: "", caption: "Foto 3 (Opsional)" }
+      { id: 1, src: "/galeri/day17-1.png", caption: "Kelompok 105 KKN Tematik UNISSULA mengikuti kegiatan pelepasan KKN oleh pihak Kelurahan Tlogosari Wetan sebagai tanda berakhirnya rangkaian kegiatan KKN Tematik Periode XXII." },
+      { id: 2, src: "/galeri/day17-2.png", caption: "Kelompok 105 KKN Tematik UNISSULA melakukan pamitan dengan Ibu RW sekaligus menyerahkan kenang-kenangan sebagai bentuk ucapan terima kasih atas dukungan dan kerja sama selama pelaksanaan KKN." },
+      { id: 3, src: "/galeri/day17-3.png", caption: "" }
     ]
   },
 ];
